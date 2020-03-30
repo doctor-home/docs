@@ -1,0 +1,73 @@
+== What
+Doctor@Home is a self-monitoring solution for stay-at-home Covid-19 patients.
+
+It consists of three key elements:
+
+- Monitoring at home 
+Helps to optimize scarse resources for clinicians,
+and improves the quality of life for patients.
+
+- Data collection
+Accessible, pro-active data collection, that works particilarly well for elderly people.
+
+- Intelligent Triaging
+A Machine Learning model for triaging that supports clinicians in the decision making.
+e.g. if a patient needs to be visited or even transferred into the hospital.
+
+
+
+== Why ("Home Monitoring")
+Governments have started to hand out thousands of pulse oxyometers to stay-at-home patients diagnosed 
+with Covid-19.
+
+Clinicians however are expected to reach out to each patient at least three times a day
+to check vital parameters, such as blood oxygen stauration (SPO2).
+
+This approach would overload our healthcare systemsm, as we anticipate many thousands of infections over time.
+Also we can't rely on patients to provide the responsible clinitian with updates multiple times a day.
+
+The solution is to proactivly reach out to patients to gather health data frequently using automation (like a chatbot or interactive voice system).
+
+Clinitians work with a patient overview dashboard.
+They get instant alerts when a triage level changes or when there are any other reasons to check back with the patient.
+
+
+
+
+
+
+== How ("Oxymeters")
+
+Patients or authorized individuals can measure essential health parameters 
+like blood oxygen stauration, pulse, respiratory rate and body temperature.
+
+
+
+== Focus ("Elderly")
+
+Currently we support calling the patient via phone and an interactive voice system.
+This has proven to work especially well for elderly people.
+
+
+
+== >>> Lets go to the dashboard
+
+DEMO
+  - Login
+  - Patient list with latest data
+  - See details with chart for Patien John Doe
+  - Additionally to automatically scheduled calls, 
+  we can also trigger a call to the patient from here 
+  - (Wait for the Phone call, enter a few numbers)
+
+  - The data should update after the call, with the new values and triage level prediction.
+  - And there will be notification to the clinician.
+
+
+== results
+
+In Summary:
+Doctor@Home can support Clinitians to closely monitor their Covid-19 patients that stay at home.
+- The approach reduces workload from Clinitians and supports with the triage and emergency indicators
+- It helps optimize scarce clinical resources and to reduce infection exposure
+- Improves patients quality of life by being able to stay home with family
