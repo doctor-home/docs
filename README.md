@@ -25,7 +25,7 @@ Our solution therefore proactively reaches out to patients by phone to gather he
 ### Pulse Oximeters
 Patients or authorized individuals can measure health parameters like blood oxygen saturation (SpO2), pulse, respiratory rate, and body temperature - non-invasive and in a safe environment. 
 
-<img src="http://doctor-at-home-bff.eastus.azurecontainer.io:8080/img/pulsoximeter.jpg" width="200" />
+<img src="img/pulsoximeter.jpg" width="200" />
 
 
 ### Focus Group: Elderly People
